@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "779372717093",
+    "firebase_url": "https://mytodo-190aa.firebaseio.com",
+    "project_id": "mytodo-190aa",
+    "storage_bucket": "mytodo-190aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779372717093:android:d6715f9a2615c613148bcc",
+        "android_client_info": {
+          "package_name": "com.example.Plan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779372717093-sh5b3842ihaaopmqa8bura8abu1orton.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UTrrD1zvkNW4G9IB60TddC2yE_z9g3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779372717093-sh5b3842ihaaopmqa8bura8abu1orton.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
